@@ -8,6 +8,10 @@
 </p>
 
 ## Sobre ejecutar el proyecto
+- Previamente instalar composer
+- Para descargar carpetas y actualizar dependencias :
+composer install    
+composer update
 - Realizar las migraciones con :
 php artisan migrate
 
