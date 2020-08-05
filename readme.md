@@ -8,10 +8,10 @@
 </p>
 
 ## Sobre ejecutar el proyecto
-Realizar las migraciones con :
+- Realizar las migraciones con :
 php artisan migrate
 
-Cargar los seeders con : 
+- Cargar los seeders con : 
 php artisan db:seed
 
 
